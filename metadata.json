@@ -1,0 +1,6 @@
+{
+  "name": "Wardly | وَردلي — Customs Clearance & Protective Packaging",
+  "description": "Wardly provides customs clearance, import supply, cargo inspection, and protective packaging (Air Column Bags) in Al-Minya and across all Egyptian ports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
